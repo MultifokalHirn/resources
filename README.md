@@ -7,6 +7,8 @@
 </p>
 <!-- markdownlint-restore -->
 
+![project-status](https://img.shields.io/badge/Status-%20Under%20Construction-yellow.svg)
+
 <!-- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
 
 <!-- tag definitions -->
@@ -23,7 +25,6 @@
   - [🤖 Software Engineering](#-software-engineering)
   - [💡 Misc. Non-Fiction](#-misc-non-fiction)
 - [🎙️ Talks/Lectures](#️-talkslectures)
-- [License](#license)
 
 ## 📚 Books
 
@@ -77,6 +78,6 @@
 
 ## 🐍 Python Packages -->
 
-## License
+<h2> License </h2>
 
 <a href="https://creativecommons.org/publicdomain/zero/1.0/"> <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" alt="drawing" width="100"/></a>
