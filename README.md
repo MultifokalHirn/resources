@@ -23,6 +23,7 @@
   - [🤖 Software Engineering](#-software-engineering)
   - [💡 Misc. Non-Fiction](#-misc-non-fiction)
 - [🎙️ Talks/Lectures](#️-talkslectures)
+- [License](#license)
 
 ## 📚 Books
 
@@ -75,3 +76,7 @@
 ## 🗂️ Lists, Overviews etc
 
 ## 🐍 Python Packages -->
+
+## License
+
+<a href="https://creativecommons.org/publicdomain/zero/1.0/"> <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" alt="drawing" width="100"/></a>
