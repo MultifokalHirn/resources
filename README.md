@@ -21,10 +21,11 @@
 
 <h2>Contents</h2>
 
-- [📚 Books](#-books)
-  - [🤖 Software Engineering](#-software-engineering)
-  - [💡 Misc. Non-Fiction](#-misc-non-fiction)
-- [🎙️ Talks/Lectures](#️-talkslectures)
+1. [📚 Books](#-books)
+   1. [🤖 Software Engineering](#-software-engineering)
+   2. [💡 Misc. Non-Fiction](#-misc-non-fiction)
+2. [📝 Articles](#-articles)
+3. [🎙️ Talks/Lectures](#️-talkslectures)
 
 ## 📚 Books
 
@@ -52,8 +53,13 @@
   - Tremendously well written introduction to dialectical materialism and Marx's critique of capitalism. Also a great starting point for anyone looking to learn about dialectics in general!
 - [**Schopenhauer's Porcupines: Intimacy and Its Dilemmas - Five Stories of Psychotherapy**](https://www.goodreads.com/book/show/19507.Schopenhauer_s_Porcupines) by *Deborah Anna Luepnitz*
   - Interesting case studies of psychotherapy patients and their struggles with intimacy
-<!-- 
-## 📝 Articles -->
+
+## 📝 Articles
+
+- [**Modern JavaScript Explained For Dinosaurs**](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) by *Peter Jang*
+  - Answering some of the (absolutely appropriate) questions that arise when diving into frontend development, like "Why do I need *node.js*, a runtime for server-side applications, when I just want to write a client-side app?"
+- [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+- [What Colour are your bits?](https://ansuz.sooke.bc.ca/entry/23)
 
 ## 🎙️ Talks/Lectures
 
